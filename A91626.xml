@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Remonstrance of the present state of York-shire: together vvith a letter sent to the House of Commons, of Colonell Gorings landing at New-Castle, with ten thousand arms, twenty pieces of ordnance, twenty thousand pounds, and fourscore old commanders, horse, waggons, &amp;c. He hath likewise brought over with him a standard from the Queen, which is to be advanced in the head of the Lord of Newcastles army, which is called, the Catholique army. Ordered by the Commons assembled in Parl. that this remonstrance and letter be forthwith printed and published: H: Elsynge, Cler: Parl: D: Com.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91626</idno><idno type="EEBO-CITATION">99872866</idno>
+  <idno type="VID">125312</idno>
+  <idno type="EEBO-PROQUEST">2240940764</idno>
+  
+            <idno type="STC">Wing R1011</idno>
+            <idno type="STC">Thomason E83_51</idno>
+            <idno type="STC">ESTC R5588</idno>
+            <idno type="PROQUEST">99872866</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872866e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91626)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125312)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E83[51])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Remonstrance of the present state of York-shire: together vvith a letter sent to the House of Commons, of Colonell Gorings landing at New-Castle, with ten thousand arms, twenty pieces of ordnance, twenty thousand pounds, and fourscore old commanders, horse, waggons, &amp;c. He hath likewise brought over with him a standard from the Queen, which is to be advanced in the head of the Lord of Newcastles army, which is called, the Catholique army. Ordered by the Commons assembled in Parl. that this remonstrance and letter be forthwith printed and published: H: Elsynge, Cler: Parl: D: Com.</title>
+                  <author>England and Wales. Parliament. House of Commons. aut</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Husbands and J. Frank,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>January 2. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Goring, George Goring, --  Baron, 1608-1657.</term>
+               <term type="personal_name">Newcastle, William Cavendish, --  Duke of, 1592-1676.</term>
+               <term type="geographic_name">Yorkshire (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Yorkshire (England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125312:1"/>
+            <pb facs="tcp:125312:1"/>
+            <p>A REMONSTRANCE OF THE PRESENT STATE OF York-shire: Together vvith a Letter sent to the House of <hi>COMMONS,</hi> OF Colonell GORINGS landing at NEW-CASTLE, with Ten thousand Arms, Twenty Pieces of Ordnance, Twenty thousand pounds, and Fourscore old Comman<g ref="char:EOLhyphen"/>ders, horse, waggons, &amp;c.</p>
+            <p>He hath likewise brought over with him a Stan<g ref="char:EOLhyphen"/>dard from the Queen, which is to be advanced in the head of the Lord of <hi>Newcastles</hi> Army, which is called, <hi>The Catholique Army.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>
+                           <hi>Ordered by the Commons assembled in Parl. that this Remon<g ref="char:EOLhyphen"/>strance and Letter be forthwith Printed and published:</hi>
+                        </p>
+                        <closer>
+                           <signed>H: Elsynge, Cler: Parl: D: Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>E. Husbands</hi> and <hi>J. Frank. January</hi> 2. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125312:2"/>
+            <pb n="3" facs="tcp:125312:2"/>
+            <head>THE PRESENT STATE OF YORKSHIRE.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He most part of the Earle of <hi>New-castle</hi> his Forces, lye upon the Coun<g ref="char:EOLhyphen"/>try towards <hi>Hallifax,</hi> and other Clothing Townes in that County, they seize the persons of all men they can of that County, who have not acted their way, and do lay Mulcts upon them at high Rates, some at 3000. l. some at 2000. l. and at lesser summes to one hundred pounds a man. Their way of assessing the rest of the Country is this, they assesse every man who formerly found a Light-horse (though a friend to their cause) at a hundred pounds, and every man that found ei<g ref="char:EOLhyphen"/>ther
+<pb n="4" facs="tcp:125312:3"/>Musquet or Pike, they assesse at 40. shillings: And who of either of those sorts they esteeme not friends, they assesse them at two parts and three parts more, and some at four, with the penalty of three times the value more to be le<g ref="char:EOLhyphen"/>vled upon their Goods or Lands, who pay not the severall Rates assessed at the dayes as<g ref="char:EOLhyphen"/>signed, which they have inflicted upon divers men; In particular they have among many others, assessed Master <hi>Iohn Savill</hi> one of the Tellers of the Exchequer, 3000. l. Sir <hi>Thomas Wentworth,</hi> 2500. l. Sir <hi>Christopher Dawney,</hi> 2000. l. Master <hi>Thomas Vincent,</hi> at a thousand Marks, Sir <hi>Nicholas, Yarbrough</hi> and Master <hi>Thomas Bosevile</hi> at five hundred pounds a man. They send out Warrants, commanding the Country to ap<g ref="char:EOLhyphen"/>peare, upon the Commission of Array, giving out they will proceed by Commission of <hi>Oy<g ref="char:EOLhyphen"/>er</hi> and <hi>Terminer,</hi> against all that obey not those Warrants, or shall any wayes obstruct the proceedings of their Army.</p>
+            <p>The Prisoners they take they use with great ruelty; They sent a Trooper who had lately
+<pb n="5" facs="tcp:125312:3"/>been servant to Sir <hi>Thomas Wentworth,</hi> to ap<g ref="char:EOLhyphen"/>prehend his brother <hi>Darcy Wentworth,</hi> who stan<g ref="char:EOLhyphen"/>ding upon his defence, slew the Trooper.</p>
+            <p>Whereupon they sent a party to take the said Master <hi>Wentworth,</hi> and having apprehen<g ref="char:EOLhyphen"/>ded him, immediatly condemned him to be shot to death, and accordingly brought him to a stake, where they put him to redeem his life with a greater sum then his estate can satisfie, which if he pay not, they resolve to execute him.</p>
+            <div type="license" subtype="order_to_print">
+               <p>
+                  <hi>ORdered that this Remonstrance be forthwith Prin<g ref="char:EOLhyphen"/>ted and published.</hi>
+               </p>
+               <closer>
+                  <signed>H: Elsynge, Cler: Parl: D: Com.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:125312:4"/>
+            <head>A Letter sent to the House of Commons of Colonell-GORINGS landing at New-castle, &amp;c.</head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>MY last unto you was on Friday, therein requesting you to send my wife a little of your wifes Balsome for her sore Breasts; and I hope this day or on Friday next to receive it, for which I shall rest obliged. Yesterday here came in two Shipps from New-castle, who bring cer<g ref="char:EOLhyphen"/>tain News, that Colonell Goring with 10000. Arms, 20. pieces of Ordnance, 20000. pounds, and old commanders to the number of 80. with many horse
+<pb n="7" facs="tcp:125312:4"/>for service, VVaggons, &amp;c. are there lan<g ref="char:EOLhyphen"/>ded; he hath brought over with him a Standard from the Queen, which is to be advanced in the Head of the Lord of New-castles Army, the which is now called the Catholique Army, and well it may; there being six or seven thousand knowne Papists and Recusants serving therein, a fearfull thing, and like<g ref="char:EOLhyphen"/>ly to prove more formidable to this Kingdome then any other Forces else<g ref="char:EOLhyphen"/>where.</p>
+            <p>The Governour of the castle at Tin<g ref="char:EOLhyphen"/>mouth Barre, hath laid a Tax upon all laden Shipps bound with their coales for London, on some thirty, on some forty, and on some fifty pounds per Shipp, so that I believe coales vvill be very dear ere long.</p>
+            <pb n="8" facs="tcp:125312:5"/>
+            <p>Pray Sir vvrite me a vvord or tvvo vvhat Shipps the company intends to set forth this Yeer, and to vvhat Ports, and I shall ever rest;</p>
+            <closer>
+               <dateline>Ipswich, <date>27. <hi>of De<g ref="char:EOLhyphen"/>cember</hi> 1642.</date>
+               </dateline>
+               <signed>Yours to command,</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license" subtype="order_to_print">
+            <p>
+               <hi>ORdered that this Letter bee forthwith Printed and published.</hi>
+            </p>
+            <closer>
+               <signed>H: Elsynge, Cler: Parl: D: Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:125312:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
